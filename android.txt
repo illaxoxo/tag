@@ -1,0 +1,2 @@
+[android dalvik vm tag]
+http://milk.com/kodebase/dalvik-docs-mirror/docs/heap-profiling.html
