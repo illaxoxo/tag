@@ -11,3 +11,6 @@ http://www.infoq.com/cn/articles/memory_barriers_jvm_concurrency
 http://blog.sina.com.cn/s/blog_6d7fa49b01014q86.html
 http://1025250620.iteye.com/blog/1170273
 http://my.eoe.cn/10407/archive/1239.html
+http://forum.xda-developers.com/showthread.php?t=904023
+http://www.cnblogs.com/killmyday/archive/2013/06/12/3132518.html
+http://www.softwaredevtips.com/12361/
